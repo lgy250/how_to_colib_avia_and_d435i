@@ -19,6 +19,7 @@
     cloudcompare.CloudCompare
 #### 安装完成后直接将文件夹下的所有点云ctrl+a拉进界面，全选，Edit——Merge（合并）——Yes。导出时注意右下角可以选择格式，point cloud library 格式。
 
+#### 后续把人体检测的加进去，完成行人点云的识别
 
 
     
